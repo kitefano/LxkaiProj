@@ -1,0 +1,5 @@
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\CspSln1.Console\obj\Debug\net8.0\CspSln1.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\CspSln1.Console\obj\Debug\net8.0\CspSln1.Console.AssemblyInfoInputs.cache
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\CspSln1.Console\obj\Debug\net8.0\CspSln1.Console.AssemblyInfo.cs
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\CspSln1.Console\obj\Debug\net8.0\CspSln1.Console.csproj.CoreCompileInputs.cache
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\CspSln1.Console\obj\Debug\net8.0\CspSln1.Console.sourcelink.json

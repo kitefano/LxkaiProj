@@ -1,0 +1,15 @@
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\bin\Debug\net9.0\Tconsole.exe
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\bin\Debug\net9.0\Tconsole.deps.json
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\bin\Debug\net9.0\Tconsole.runtimeconfig.json
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\bin\Debug\net9.0\Tconsole.dll
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\bin\Debug\net9.0\Tconsole.pdb
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.AssemblyInfoInputs.cache
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.AssemblyInfo.cs
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.csproj.CoreCompileInputs.cache
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.sourcelink.json
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.dll
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\refint\Tconsole.dll
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.pdb
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\Tconsole.genruntimeconfig.cache
+C:\Users\86166\Desktop\Git@20250809\LxkaiProj\CodeTTT\CspSln1\Tconsole\obj\Debug\net9.0\ref\Tconsole.dll
